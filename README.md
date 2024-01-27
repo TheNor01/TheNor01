@@ -1,5 +1,5 @@
 ## :wave: About me
-Hi, I’m @TheNor, but you can call me Aldo <br /> Currently I’m a Data Engineer at Blendee, but during my spare time i change my "hat" and i wear a Data Scientist one :robot:  <br />I achieved a Bachelor's degree in Computer Science from the University of Catania. My Master's degree is still ongoing :muscle:
+Hi, I’m @TheNor, but you can call me Aldo <br /> Currently I’m a Data Engineer at Blendee, but during my spare time i change my "hat" and i wear a Data Scientist one :robot:  <br />I achieved a Bachelor's degree in Computer Science at University of Catania. My Master's degree is still ongoing :muscle:
 <br />
 
 ## :brain: What inspired me
