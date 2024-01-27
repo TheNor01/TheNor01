@@ -11,7 +11,7 @@ Over the years, I have developed a growing interest in the realms of machine lea
 
 Furthermore, I was involved in rewriting and optimizing batch processing modules to enhance execution times, managing and improving resource and data utilization within a Hadoop cluster. Additionally, I created dashboards on Grafana to display processed data loaded into ElasticSearch indices.
 
-Meanwhile, my parallel academic background allowed me to delve deeper into the AI landscape through the development of personal projects (you can find them here on GitHub). In these projects, I predominantly utilized Python for the development of neural networks and classification models in various contexts.
+Meanwhile, my parallel academic background allowed me to delve deeper into the AI landscape through the development of personal projects (you can find them here on GitHub). In these projects, I predominantly utilized Python and Tensorflow for the development of neural networks and classification models in various contexts.
 
 My next objective is to explore and study the new frontier of Large Language Models (LLM) in today's world and integrate them into applications and systems for common use.
 
