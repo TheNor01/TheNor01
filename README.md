@@ -3,7 +3,7 @@ Hi, I’m @TheNor, but you can call me Aldo <br /> Currently I’m a Data Engine
 <br />
 
 ## :brain: What inspired me
-Since the beginning of my studies, I have always had a passion for computer science. The curiosity of creating something out of nothing and bringing significant innovation to the world has always fascinated me. Helping people solve problems makes you a better person :heart:. Thus, this determination has transformed into passion.
+Since the beginning of my studies, I have always had a passion for computer science. The curiosity of creating something out of nothing and bringing significant innovation to the world has always fascinated me. Assisting people in solving problems not only enhances one's problem-solving skills but also contributes to personal growth, making you a better person :heart:
 
 ## :computer: What i have done
 
